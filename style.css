@@ -1,0 +1,13 @@
+.formulaire {
+  text-align: center;
+}
+.avis {
+  text-align: center;
+}
+footer {
+  background-color: black;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  position: relative;
+}
